@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ma02_20201028</string>
+    <string name="api_key">AIzaSyDCV_owAXoqgA9u5Bo3KIFmGc9Ex4ZHXoA</string>
+    <!--  Naver API Key -->
+    <string name="api_url">https://openapi.naver.com/v1/search/blog.xml?display=20&amp;query=</string>
+    <string name="api_url2">https://openapi.naver.com/v1/search/local.xml?display=20&amp;query=</string>
+    <string name="client_id">D3WqaOQ6NGCzxGI7dti_</string>
+    <string name="client_secret">jAcHMmAAYx</string>
+</resources>

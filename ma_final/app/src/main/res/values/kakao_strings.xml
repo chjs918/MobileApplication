@@ -1,0 +1,6 @@
+<resources>
+    <!-- kakao API-->
+    <string name = "kakao_app_key">a85b0432e13f239b769d41d17e960365</string>
+    <string name ="kakao_scheme">kakaoa85b0432e13f239b769d41d17e960365</string>
+    <string name="kakaolink_host">kakaolink</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Naver Search with Retrofit</string>
+    <string name="client_id">aTtZMtvoO2S6LAI0WUl3</string>
+    <string name="client_secret">9iTcuxV9yr</string>
+</resources>
